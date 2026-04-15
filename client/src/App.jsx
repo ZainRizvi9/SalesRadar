@@ -2,7 +2,7 @@ import { useState, useEffect, useRef } from 'react'
 import axios from 'axios'
 import './App.css'
 
-const API = 'http://localhost:3001'
+const API = 'https://salesradar-production-6013.up.railway.app'
 
 const SIGNAL_LABELS = {
   expansion:   'Market Expansion',
