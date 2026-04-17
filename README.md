@@ -8,7 +8,7 @@ Account intelligence platform that analyzes real-time news through IBM Watson NL
 
 ## Overview
 
-Sales teams spend hours researching accounts before a call — reading news, checking funding rounds, trying to figure out if a company is actually in a buying cycle. SalesRadar automates that research in seconds. Type a company name, and the platform fetches recent news, runs it through IBM Watson NLU, detects buying signals, and returns a scored account with the signals that drove the score and the articles that surfaced them.
+Sales teams spend hours researching accounts before a call; reading news, checking funding rounds, trying to figure out if a company is actually in a buying cycle. SalesRadar automates that research in seconds. Type a company name, and the platform fetches recent news, runs it through IBM Watson NLU, detects buying signals, and returns a scored account with the signals that drove the score and the articles that surfaced them.
 
 Each analysis also supports one-click push to Salesforce CRM, creating a Lead record with the full intelligence report attached as a description.
 
@@ -20,7 +20,7 @@ Each analysis also supports one-click push to Salesforce CRM, creating a Lead re
 Type any company name and SalesRadar fetches recent news, analyzes it with Watson NLU, and returns a 0-100 purchase intent score with priority tier (Hot, Warm, Cool, Cold), sentiment analysis, buying signals, named entity extraction, and source articles.
 
 **Real-Time Search**
-Results populate automatically as you type — 700ms debounce triggers analysis without needing to press Enter.
+Results populate automatically as you type; 700ms debounce triggers analysis without needing to press Enter.
 
 **Account Comparison**
 Compare two companies side by side. Both are analyzed in parallel and ranked by purchase intent score with a visual comparison bar and a top-priority recommendation.
